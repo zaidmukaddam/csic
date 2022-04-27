@@ -15,7 +15,6 @@ Since the iTunes era I like to customize my music collection with pretty covers 
 - Using some awesome dependencies like dom-to-image-more, file-saver, react-color and react-draggable.
 - Multiple languages with i18next
 - Also, with ESLint, Prettier, stylelint, Husky, lint-staged and [much more](package.json).
-- Hosted on Github Pages with [Github Actions](.github/workflows/main.yml).
 
 ## :keyboard: Developing
 
